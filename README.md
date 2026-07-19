@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF003C&section=header&text=JANMEJAYAMOHANTY&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF003C&section=header&text=JANME%20JAYA%20MOHANTY&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=60"/>
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=650&color=B22222&lines=Computer+Science+Engineering+Student;Currently+Learning+C+Programming;Future+Software+Engineer" />
