@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF003C&section=header&text=Md%20Ayubul%20Haque&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%7C%20ML%20Student&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF003C&section=header&text=JANMEJAYAMOHANTY&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descAlignY=60"/>
 </p>
 
 
 <p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=650&color=B22222&lines=AI%2FML+Student;Currently+Learning+C+Programming;Future+DSA+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=650&color=B22222&lines=Computer+Science+Engineering+Student;Currently+Learning+C+Programming;Future+Software+Engineer" />
 </p>
 
 ---
@@ -31,8 +30,8 @@
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://github.com/mdaybhaq">
-    <img src="https://img.shields.io/badge/GitHub-mdaybhaq-FF003C?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/JANMEJAYAMOHANTY461">
+    <img src="https://img.shields.io/badge/GitHub-JANMEJAYAMOHANTY461-FF003C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
